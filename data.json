@@ -1,0 +1,116 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "1 Cup",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "1 Cup",
+            "harga": "28.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_americano.jpg",
+            "nama": "Americano",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Gula Aren Robusta",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "1 Cup",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/product_cok1.png",
+            "nama": "Coklat",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_leci.jpg",
+            "nama": "Lchyee Tea",
+            "size": "1 Cup",
+            "harga": "25.000",
+            "link": "https://dcostseafood.id/wp-content/uploads/2021/12/LYCHEE-TEA.jpg"
+
+        },
+        {
+            "foto": "images/produk/product_matcha.jpg",
+            "nama": "Matcha",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_matcha1.jpg",
+            "nama": "Red Velvet",
+            "size": "1 Cup",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ],
+    "snack": [
+        {
+            "foto": "images/produk/product_bronis.jpg",
+            "nama": "Brownis",
+            "size": "1 Slice",
+            "harga": "30.000",
+            "link":"https://www.sweetestmenu.com/wp-content/uploads/2020/06/browniecake35a.jpg"
+        },
+        {
+            "foto": "images/produk/product_cheese.jpg",
+            "nama": "Cheese Cake",
+            "size": "1 pcs",
+            "harga": "30.000",
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge-TeG_xNEYNbG7B29qA3Tc-_q_4G61wPfQ&usqp=CAU"
+        },
+        {
+            "foto": "images/produk/product_donut.jpg",
+            "nama": " Donat ",
+            "size": "1 pcs",
+            "harga": "8.000",
+            "link": ":https://static.promediateknologi.id/crop/8x23:718x445/750x500/webp/photo/2022/11/14/2122951719.jpg"  
+        },     
+        {
+            "foto": "https://cdn1.jernejkitchen.com/sites/default/files/poutine-01-jernejkitchen.jpg",
+            "nama": "French Fries",
+            "size": "1 pcs",
+            "harga": "20.000",
+            "link": "https://cdn1.jernejkitchen.com/sites/default/files/poutine-01-jernejkitchen.jpg"
+        },
+        {
+            "foto": "images/produk/product_redcake.jpg",
+            "nama": " Red Velvet Cake ",
+            "size": "1 pcs",
+            "harga": "30.000",
+            "link": "https://www.allrecipes.com/thmb/3IpJO0HesjK6mL8nzNkjXU47gwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Southern-Red-Velvet-Cake161-2000-d74e3446e6874584b805d68092e0db66.jpg"
+        }     
+    ]
+}
